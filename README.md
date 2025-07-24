@@ -1,11 +1,19 @@
-# Wordle App
+# Wordle 🧩
 
-This is one of the first React apps I built
+My own version of the **New York Times' Wordle** game, built from scratch as one of my first solo projects. This project was a great learning experience where I deepened my understanding of React.
 
-To get this app up and running, you'll need to run the following commands in the terminal:
+## 🛠️ Tech Stack
 
-npm i
+- **React** (Vite) for front-end
+- **Tailwind CSS** for styling
+
+## 📦 Installation
+
+To get started locally, clone the repository and install the packages below:
+
+```bash
+npm install
 npm install tailwindcss @tailwindcss/vite
-npm i random-words
-npm i @fortawesome/free-solid-svg-icons
-npm i @fortawesome/react-fontawesome
+npm install random-words
+npm install @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
+```
