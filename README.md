@@ -9,11 +9,8 @@ My own version of the **New York Times' Wordle** game, built from scratch as one
 
 ## 📦 Installation
 
-To get started locally, clone the repository and install the packages below:
-
+To get started locally, clone the repository and run the below commands:
 ```bash
 npm install
-npm install tailwindcss @tailwindcss/vite
-npm install random-words
-npm install @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
+npm run dev
 ```
